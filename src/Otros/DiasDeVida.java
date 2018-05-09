@@ -1,3 +1,5 @@
+//Modificamos el fichero en local
+//despues de ya tenerlo en remoto
 /*
  * Dias de Vida
  * 
